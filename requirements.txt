@@ -1,0 +1,13 @@
+streamlit
+tensorflow>=2.18.0
+opencv-python
+pillow
+numpy
+pandas
+pymongo
+bcrypt
+python-dotenv
+scikit-learn
+matplotlib
+plotly
+fpdf
